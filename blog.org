@@ -1,0 +1,10 @@
+* Starting blog
+The goal is to write a blog explaining how to do various things in LaTeX, python and other web development
+In order to help the development of my online presence.
+** Django Blog
+https://www.quora.com/How-do-I-create-a-blog-using-Django
+
+** Django tutorial
+https://docs.djangoproject.com/en/2.0/intro/tutorial01/
+
+
